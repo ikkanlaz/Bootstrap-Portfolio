@@ -1,0 +1,66 @@
+#page-container {
+    min-height: 900px;
+}
+
+#bio-image {
+    float: left;
+    margin-right: 10px;
+    width: 300px;
+    height: auto;
+}
+
+p.description {
+    font-size: 100%;
+}
+
+.social-logos > li {
+    display: inline;
+    text-align: center;
+}
+
+.connect-info-icon {
+    width: 60px;
+    height: 60px;
+}
+
+textarea {
+    border-color: #dddddd;
+}
+
+img.image {
+    margin: 20px auto 0;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 500px;
+    display: block;
+}
+
+h3.image-text {
+    position: absolute;
+    top: 60%;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    padding: 15px 5%;
+    margin: 0;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    background-color: #eeeeee;
+    height: 60px;
+    width: 100%;
+}
+
+footer > p {
+    line-height: 60px;
+    height: 60px;
+    text-align: center;
+    margin-bottom: 0;
+}
